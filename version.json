@@ -1,0 +1,11 @@
+{
+    "Number":  273,
+    "Message":  "- Sign all remaining FanControl.*.dll\r\n- Update LibreHardwareMonitorLib.dll\r\n- Improve settings and tray icons page layouts",
+    "Checksums":  {
+                      "FanControl_4_8":  "178E70BDD90066E14FBEEEBCF9EE3FA0",
+                      "FanControl_10_0":  "265124C2F5B71D6C47134F4404A70DF2",
+                      "FanControl_4_8_Installer":  "2A8597B160096D1BEA93C8176450F649",
+                      "FanControl_10_0_Installer":  "61A53B5F0C792C9C1D8C64710DF15C54",
+                      "Updater":  "283A6E745166CD3D495DBE9CD75BFD18"
+                  }
+}
